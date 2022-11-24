@@ -69,7 +69,8 @@ with open('./data/1.txt') as f:
 # print(database)    
 
 import json
-with open('1.json', 'w', encoding='utf-8') as f:
+# with open('./data/2.json', 'w', encoding='utf-8') as f:
+with open('./data/1.json', 'w', encoding='utf-8') as f:
     json.dump(database, f, ensure_ascii=False, indent=4)
     
 
