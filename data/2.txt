@@ -1,0 +1,70 @@
+(i) _____________ is a code injecting method used for attacking the database of a system / 
+website.
+a) HTML injection b) SQL Injection c) Malicious code injection d) XML Injection
+(ii) When you use the word _____ it means you are protecting your data from getting disclosed.
+a) Confidentiality b) Integrity c) Authentication d) Availability
+(iii) Lack of access control policy is a _____________
+a) Bug b) Threat c) Vulnerability d) Attack
+(iv) ____________ is the information gathering phase in ethical hacking from the target user.
+a) Reconnaissance b) Scanning c) Gaining access d) Maintaining access
+(v) ___________ ensures the integrity and security of data that are passing over a network.
+a) Firewall b) Antivirus c) Pentesting Tools d) Network-security 
+protocols
+(vi) __________ is a set of conventions & rules set for communicating two or more devices
+residing in the same network?
+a) Security policies b) Protocols c) Wireless network d) Network algorithms
+(vii) Authentication in PCT requires _____ keys.
+a) One b) Two c) Three d) Four
+(viii) Existence of weakness in a system or network is called _______
+a) Threat b) Vulnerability c) Exploit d) Attack
+(ix) _______ is the method of developing or creating a structurally similar yet unauthentic and 
+illegitimate data of any firm or company.
+a) Data copying b) Data masking c) Data breaching d) Data duplicating
+(x) Which of the following is the port number for FTP data?
+a) 20 b) 21 c) 22 d) 23
+(xi) Firewall examines each ____________ that are entering or leaving the internal network.
+a) user emails b) updates c) connections d) data packets
+(xii) ______________ is the first phase of ethical hacking.
+a) DNS poisoning b) Foot printing c) ARP-poisoning d) Enumeration
+(xiii) In __________________ layer, vulnerabilities are directly associated with physical access 
+to networks and hardware.
+a) physical b) data-link c) network d) application
+(xiv) Which of them is not a TCP/IP command?
+a) ftp b) rexec c) tcpexec d) telnet
+(xv) For discovering the OS running on the target system, the scanning has a specific term. What 
+is it?
+a) Footprinting b) 3D Printing c) Fingerprinting d) screen-printing
+(xvi) Unsolicited Bulk E-mails UBI are called __________
+a) SMS b) MMS c) Spam emails d) Malicious emails
+(xvii) _________ is one of the most widely used web server platforms.
+a) IIS b) IAS c) ISS d) AIS
+(xviii) When plain text is converted to unreadable format, it is termed as _____________
+a) rotten text b) raw text c) cipher-text d) ciphen-text
+(xix) A set of all probable decryption keys are collectively termed as ____________
+a) key-stack b) key bunch c) key space d) key pack
+(xx) In _____________________ same keys are implemented for encrypting as well as 
+decrypting the information.
+a) Symmetric Key Encryption b) Asymmetric Key Encryption c) Asymmetric 
+Key Decryption d) Hash-based Key Encryption
+(xxi) The procedure to add bits to the last block is termed as _________________
+a) decryption b) hashing c) tuning d) padding
+(xxii) ____________ carries out all its calculations on bytes rather than using bits and is at least 
+6-times faster than 3-DES.
+a) AES b) DES c) IDEA d) None of these
+(xxiii) XSS is abbreviated as __________
+a) Extreme Secure Scripting b) Cross Site Security c) X Site Scripting d)
+Cross Site Scripting
+(xxiv) Which of them is not a wireless attack?
+a) Eavesdropping b) MAC Spoofing c) Wireless Hijacking d) Phishing
+(xxv) ______ is the latest technology that faces an extra challenge because of CIA paradigm.
+a) Big data b) Database systems c) Cloud storages d) Smart dust
+(xxvi) Compromising confidential information comes under _________
+a) Bug b) Threat c) Vulnerability d) Attack
+(xxvii) Which of them is not a scanning tool?
+a) NMAP b) Nexpose c) Maltego d) Nessus
+(xxviii) In _______ phase, the hackers try to hide their footprints.
+a) Scanning b) Tracks clearing c) Reconnaissance d) Gaining access
+(xxix) Which of the following is not a strong security protocol?
+a) HTTPS b) SSL c) SMTP d) SFTP
+(xxx) Data masking is also known as _________
+a) Data obfuscation b) Data copying c) Data breaching d) Data duplicating

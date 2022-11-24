@@ -1,0 +1,332 @@
+[
+    {
+        "q_no": 1,
+        "data": {
+            "question": "Compromising a user's session for exploiting the user's data and do malicious activities or misuse user's credentials is called dash ",
+            "a": " Session Hijacking ",
+            "b": " Session Fixation ",
+            "c": " Cookie stuffing ",
+            "d": " Session Spying",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 2,
+        "data": {
+            "question": "An attempt to harm, damage or cause threat to a system or network is broadly termed as dash ",
+            "a": " Cyber-crime ",
+            "b": " Cyber Attack ",
+            "c": " System hijacking ",
+            "d": " Digital crime",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 3,
+        "data": {
+            "question": "dash  means the protection of data from modification by unknown users.",
+            "a": " Confidentiality ",
+            "b": " Integrity ",
+            "c": " Authentication ",
+            "d": " Non-repudiation",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 4,
+        "data": {
+            "question": "dash  is the practice and precautions taken to protect valuable information from unauthorized access, recording, disclosure or destruction.",
+            "a": " Network Security ",
+            "b": " Database Security ",
+            "c": " Information Security ",
+            "d": " None of these",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 5,
+        "data": {
+            "question": "dash  phase in ethical hacking is known as the pre-attack phase.",
+            "a": " Reconnaissance ",
+            "b": " Scanning ",
+            "c": " Gaining access ",
+            "d": " Maintaining access",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 6,
+        "data": {
+            "question": "Which of the following is not an example of social engineering?",
+            "a": " Dumpster diving ",
+            "b": " Shoulder surfing ",
+            "c": " Carding ",
+            "d": " Spear phishing",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 7,
+        "data": {
+            "question": "Which of the following is not a secured mail transferring methodology?",
+            "a": " POP ",
+            "b": " SSMTP ",
+            "c": " Mail using PGP ",
+            "d": " S/MIME",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 8,
+        "data": {
+            "question": "dash  is used for encrypting data at network level.",
+            "a": " HTTPS ",
+            "b": " SMTP ",
+            "c": " S/MIME ",
+            "d": " Secure IP",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 9,
+        "data": {
+            "question": "dash  automates an action or attack so that repetitive tasks are done at a faster rate.",
+            "a": " Auto-bots ",
+            "b": " Cookie-bots ",
+            "c": " Robots ",
+            "d": " Bots",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 10,
+        "data": {
+            "question": "Finding & publishing any user's identity with the help of different personal details is called dash ",
+            "a": " Doxing ",
+            "b": " Data breaching ",
+            "c": " Data copying ",
+            "d": " FTP",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 11,
+        "data": {
+            "question": "Which of the following is the port number for FTP control?",
+            "a": " 20 ",
+            "b": " 21 ",
+            "c": " 22 ",
+            "d": " 23",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 12,
+        "data": {
+            "question": "A firewall protects which of the following attacks?",
+            "a": " Phishing ",
+            "b": " Shoulder surfing ",
+            "c": " Denial of Service DoS ",
+            "d": " All of these",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 13,
+        "data": {
+            "question": "Site-to-site VPNs are also known as dash ",
+            "a": " Switch-to-switch VPNs ",
+            "b": " Peer-to-Peer VPNs ",
+            "c": " Point-to-point VPNs ",
+            "d": "Router-to-router VPNs",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 14,
+        "data": {
+            "question": "dash  has now evolved to be one of the most popular automated tools for unethical hacking.",
+            "a": " Automated apps ",
+            "b": " Database software ",
+            "c": " Malware ",
+            "d": " Worms",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 15,
+        "data": {
+            "question": "dash  protocol attack is done in the data-link layer.",
+            "a": " HTTP ",
+            "b": " DNS ",
+            "c": " TCP/IP ",
+            "d": " POP",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 16,
+        "data": {
+            "question": "ICMP scanning is used to scan dash ",
+            "a": " open systems ",
+            "b": " live systems ",
+            "c": " malfunctioned systems ",
+            "d": " broken systems",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 17,
+        "data": {
+            "question": "Cryptographic algorithms are based on mathematical algorithms where these algorithms use dash  for a secure transformation of data.",
+            "a": " secret key ",
+            "b": " external key ",
+            "c": " add-ons ",
+            "d": " secondary key",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 18,
+        "data": {
+            "question": "In dash  two different keys are implemented for encrypting as well as decrypting that particular information.",
+            "a": " Symmetric Key Encryption ",
+            "b": " Asymmetric Key Encryption ",
+            "c": " Asymmetric Key Decryption ",
+            "d": " Hash-based Key Encryption",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 19,
+        "data": {
+            "question": "The dash  has piece of the keyword that has the same length as that of the plaintext.",
+            "a": " Block Cipher ",
+            "b": " One-time pad ",
+            "c": " Hash functions ",
+            "d": " Vigenere Cipher",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 20,
+        "data": {
+            "question": "In an asymmetric key cipher, the sender uses the dash  key.",
+            "a": " private ",
+            "b": " public ",
+            "c": " both a & b ",
+            "d": " None of these",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 21,
+        "data": {
+            "question": "A dash  cipher replaces one character with another character.",
+            "a": " substitution ",
+            "b": " transposition ",
+            "c": " both a & b ",
+            "d": " None of these",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 22,
+        "data": {
+            "question": "Which type of the following malware does not replicate or clone themselves through infection?",
+            "a": " Rootkits ",
+            "b": " Trojans ",
+            "c": " Worms ",
+            "d": " Viruses",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 23,
+        "data": {
+            "question": "DNS translates a Domain name into dash ",
+            "a": " Hex ",
+            "b": " Binary ",
+            "c": " IP",
+            "d": " URL",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 24,
+        "data": {
+            "question": "dash  is a violent act done using the Internet, which either threatens any technology user or leads to loss of life or otherwise harms anyone in order to accomplish political gain.",
+            "a": " Cyber-warfare ",
+            "b": " Cyber campaign ",
+            "c": " Cyber-terrorism ",
+            "d": " Cyber attack",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 25,
+        "data": {
+            "question": "When integrity is lacking in a security system, dash  occurs.",
+            "a": " Database hacking ",
+            "b": " Data deletion ",
+            "c": " Data tampering ",
+            "d": " Data leakage",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 26,
+        "data": {
+            "question": "Users are able to see a pad-lock icon in the address bar of the browser when there is dash  connection.",
+            "a": " HTTP ",
+            "b": " HTTPS ",
+            "c": " SMTP ",
+            "d": " SFTP",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 27,
+        "data": {
+            "question": "Packet filtering firewalls are deployed on dash ",
+            "a": " routers ",
+            "b": " switches ",
+            "c": " hubs ",
+            "d": " repeaters",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 28,
+        "data": {
+            "question": "What types of protocols are used in VPNs?",
+            "a": " Application level protocols ",
+            "b": " Tunneling protocols ",
+            "c": " Network protocols ",
+            "d": "Mailing protocols",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 29,
+        "data": {
+            "question": "What common web scripting languages are used by attackers to fetch various details from its surfing users?",
+            "a": " C# and java ",
+            "b": " C++ and HTML ",
+            "c": " HTML and Python ",
+            "d": " Perl and JavaScript",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 30,
+        "data": {
+            "question": "Accessing computer without prior authorization is a cyber-crimes that come under dash ",
+            "a": " Section 65 ",
+            "b": " Section 66 ",
+            "c": " Section 68 ",
+            "d": " Section 7",
+            "answer": "b"
+        }
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "q_no": 1,
+        "data": {
+            "question": "dash  is a code injecting method used for attacking the database of a system / website.",
+            "a": " HTML injection ",
+            "b": " SQL Injection ",
+            "c": " Malicious code injection ",
+            "d": " XML Injection",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 2,
+        "data": {
+            "question": "When you use the word dash  it means you are protecting your data from getting disclosed.",
+            "a": " Confidentiality ",
+            "b": " Integrity ",
+            "c": " Authentication ",
+            "d": " Availability",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 3,
+        "data": {
+            "question": "Lack of access control policy is a dash ",
+            "a": " Bug ",
+            "b": " Threat ",
+            "c": " Vulnerability ",
+            "d": " Attack",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 4,
+        "data": {
+            "question": "dash  is the information gathering phase in ethical hacking from the target user.",
+            "a": " Reconnaissance ",
+            "b": " Scanning ",
+            "c": " Gaining access ",
+            "d": " Maintaining access",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 5,
+        "data": {
+            "question": "dash  ensures the integrity and security of data that are passing over a network.",
+            "a": " Firewall ",
+            "b": " Antivirus ",
+            "c": " Pentesting Tools ",
+            "d": " Network-security protocols",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 6,
+        "data": {
+            "question": "dash  is a set of conventions & rules set for communicating two or more devices residing in the same network?",
+            "a": " Security policies ",
+            "b": " Protocols ",
+            "c": " Wireless network ",
+            "d": " Network algorithms",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 7,
+        "data": {
+            "question": "Authentication in PCT requires dash  keys.",
+            "a": " One ",
+            "b": " Two ",
+            "c": " Three ",
+            "d": " Four",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 8,
+        "data": {
+            "question": "Existence of weakness in a system or network is called dash ",
+            "a": " Threat ",
+            "b": " Vulnerability ",
+            "c": " Exploit ",
+            "d": " Attack",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 9,
+        "data": {
+            "question": "dash  is the method of developing or creating a structurally similar yet unauthentic and illegitimate data of any firm or company.",
+            "a": " Data copying ",
+            "b": " Data masking ",
+            "c": " Data breaching ",
+            "d": " Data duplicating",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 10,
+        "data": {
+            "question": "Which of the following is the port number for FTP data?",
+            "a": " 20 ",
+            "b": " 21 ",
+            "c": " 22 ",
+            "d": " 23",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 11,
+        "data": {
+            "question": "Firewall examines each dash  that are entering or leaving the internal network.",
+            "a": " user emails ",
+            "b": " updates ",
+            "c": " connections ",
+            "d": " data packets",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 12,
+        "data": {
+            "question": "dash  is the first phase of ethical hacking.",
+            "a": " DNS poisoning ",
+            "b": " Foot printing ",
+            "c": " ARP-poisoning ",
+            "d": " Enumeration",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 13,
+        "data": {
+            "question": "In dash  layer, vulnerabilities are directly associated with physical access to networks and hardware.",
+            "a": " physical ",
+            "b": " data-link ",
+            "c": " network ",
+            "d": " application",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 14,
+        "data": {
+            "question": "Which of them is not a TCP/IP command?",
+            "a": " ftp ",
+            "b": " rexec ",
+            "c": " tcpexec ",
+            "d": " telnet",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 15,
+        "data": {
+            "question": "For discovering the OS running on the target system, the scanning has a specific term. What is it?",
+            "a": " Footprinting ",
+            "b": " 3D Printing ",
+            "c": " Fingerprinting ",
+            "d": " screen-printing",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 16,
+        "data": {
+            "question": "Unsolicited Bulk E-mails UBI are called dash ",
+            "a": " SMS ",
+            "b": " MMS ",
+            "c": " Spam emails ",
+            "d": " Malicious emails",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 17,
+        "data": {
+            "question": "dash  is one of the most widely used web server platforms.",
+            "a": " IIS ",
+            "b": " IAS ",
+            "c": " ISS ",
+            "d": " AIS",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 18,
+        "data": {
+            "question": "When plain text is converted to unreadable format, it is termed as dash ",
+            "a": " rotten text ",
+            "b": " raw text ",
+            "c": " cipher-text ",
+            "d": " ciphen-text",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 19,
+        "data": {
+            "question": "A set of all probable decryption keys are collectively termed as dash ",
+            "a": " key-stack ",
+            "b": " key bunch ",
+            "c": " key space ",
+            "d": " key pack",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 20,
+        "data": {
+            "question": "In dash  same keys are implemented for encrypting as well as decrypting the information.",
+            "a": " Symmetric Key Encryption ",
+            "b": " Asymmetric Key Encryption ",
+            "c": " Asymmetric \nKey Decryption ",
+            "d": " Hash-based Key Encryption",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 21,
+        "data": {
+            "question": "The procedure to add bits to the last block is termed as dash ",
+            "a": " decryption ",
+            "b": " hashing ",
+            "c": " tuning ",
+            "d": " padding",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 22,
+        "data": {
+            "question": "dash  carries out all its calculations on bytes rather than using bits and is at least 6-times faster than 3-DES.",
+            "a": " AES ",
+            "b": " DES ",
+            "c": " IDEA ",
+            "d": " None of these",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 23,
+        "data": {
+            "question": "XSS is abbreviated as dash ",
+            "a": " Extreme Secure Scripting ",
+            "b": " Cross Site Security ",
+            "c": " X Site Scripting ",
+            "d": "Cross Site Scripting",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 24,
+        "data": {
+            "question": "Which of them is not a wireless attack?",
+            "a": " Eavesdropping ",
+            "b": " MAC Spoofing ",
+            "c": " Wireless Hijacking ",
+            "d": " Phishing",
+            "answer": "d"
+        }
+    },
+    {
+        "q_no": 25,
+        "data": {
+            "question": "dash  is the latest technology that faces an extra challenge because of CIA paradigm.",
+            "a": " Big data ",
+            "b": " Database systems ",
+            "c": " Cloud storages ",
+            "d": " Smart dust",
+            "answer": "a"
+        }
+    },
+    {
+        "q_no": 26,
+        "data": {
+            "question": "Compromising confidential information comes under dash ",
+            "a": " Bug ",
+            "b": " Threat ",
+            "c": " Vulnerability ",
+            "d": " Attack",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 27,
+        "data": {
+            "question": "Which of them is not a scanning tool?",
+            "a": " NMAP ",
+            "b": " Nexpose ",
+            "c": " Maltego ",
+            "d": " Nessus",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 28,
+        "data": {
+            "question": "In dash  phase, the hackers try to hide their footprints.",
+            "a": " Scanning ",
+            "b": " Tracks clearing ",
+            "c": " Reconnaissance ",
+            "d": " Gaining access",
+            "answer": "b"
+        }
+    },
+    {
+        "q_no": 29,
+        "data": {
+            "question": "Which of the following is not a strong security protocol?",
+            "a": " HTTPS ",
+            "b": " SSL ",
+            "c": " SMTP ",
+            "d": " SFTP",
+            "answer": "c"
+        }
+    },
+    {
+        "q_no": 30,
+        "data": {
+            "question": "Data masking is also known as dash ",
+            "a": " Data obfuscation ",
+            "b": " Data copying ",
+            "c": " Data breaching ",
+            "d": " Data duplicatin",
+            "answer": "a"
+        }
+    }
+]

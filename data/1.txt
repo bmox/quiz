@@ -1,0 +1,77 @@
+(i) Compromising a user’s session for exploiting the user’s data and do malicious activities or 
+misuse user’s credentials is called ___________
+a) Session Hijacking b) Session Fixation c) Cookie stuffing d) Session Spying
+(ii) An attempt to harm, damage or cause threat to a system or network is broadly termed as 
+______
+a) Cyber-crime b) Cyber Attack c) System hijacking d) Digital crime
+(iii) ______ means the protection of data from modification by unknown users.
+a) Confidentiality b) Integrity c) Authentication d) Non-repudiation
+(iv) _______ is the practice and precautions taken to protect valuable information from 
+unauthorized access, recording, disclosure or destruction.
+a) Network Security b) Database Security c) Information Security d) None of these
+(v) ________ phase in ethical hacking is known as the pre-attack phase.
+a) Reconnaissance b) Scanning c) Gaining access d) Maintaining access
+(vi) Which of the following is not an example of social engineering?
+a) Dumpster diving b) Shoulder surfing c) Carding d) Spear phishing
+(vii) Which of the following is not a secured mail transferring methodology?
+a) POP b) SSMTP c) Mail using PGP d) S/MIME
+(viii) __________ is used for encrypting data at network level.
+a) HTTPS b) SMTP c) S/MIME d) Secure IP
+(ix) ________ automates an action or attack so that repetitive tasks are done at a faster rate.
+a) Auto-bots b) Cookie-bots c) Robots d) Bots
+(x) Finding & publishing any user’s identity with the help of different personal details is called
+________
+a) Doxing b) Data breaching c) Data copying d) FTP
+(xi) Which of the following is the port number for FTP control?
+a) 20 b) 21 c) 22 d) 23
+(xii) A firewall protects which of the following attacks?
+a) Phishing b) Shoulder surfing c) Denial of Service DoS d) All of these
+(xiii) Site-to-site VPNs are also known as ________
+a) Switch-to-switch VPNs b) Peer-to-Peer VPNs c) Point-to-point VPNs d)
+Router-to-router VPNs
+(xiv) ___________ has now evolved to be one of the most popular automated tools for unethical
+hacking.
+a) Automated apps b) Database software c) Malware d) Worms
+(xv) ____________ protocol attack is done in the data-link layer.
+a) HTTP b) DNS c) TCP/IP d) POP
+(xvi) ICMP scanning is used to scan _______________
+a) open systems b) live systems c) malfunctioned systems d) broken systems
+(xvii) Cryptographic algorithms are based on mathematical algorithms where these algorithms 
+use ___________ for a secure transformation of data.
+a) secret key b) external key c) add-ons d) secondary key
+(xviii) In __________________ two different keys are implemented for encrypting as well as 
+decrypting that particular information.
+a) Symmetric Key Encryption b) Asymmetric Key Encryption c) Asymmetric Key 
+Decryption d) Hash-based Key Encryption
+(xix) The ________________ has piece of the keyword that has the same length as that of the 
+plaintext.
+a) Block Cipher b) One-time pad c) Hash functions d) Vigenere Cipher
+(xx) In an asymmetric key cipher, the sender uses the ____________ key.
+a) private b) public c) both a & b d) None of these
+(xxi) A _____ cipher replaces one character with another character.
+a) substitution b) transposition c) both a & b d) None of these
+(xxii) Which type of the following malware does not replicate or clone themselves through 
+infection?
+a) Rootkits b) Trojans c) Worms d) Viruses
+(xxiii) DNS translates a Domain name into _________
+a) Hex b) Binary c) FTP d) URL
+(xxiv) ___________ is a violent act done using the Internet, which either threatens any 
+technology user or leads to loss of life or otherwise harms anyone in order to accomplish 
+political gain.
+a) Cyber-warfare b) Cyber campaign c) Cyber-terrorism d) Cyber attack
+(xxv) When integrity is lacking in a security system, _________ occurs.
+a) Database hacking b) Data deletion c) Data tampering d) Data leakage
+(xxvi) Users are able to see a pad-lock icon in the address bar of the browser when there is 
+_______ connection.
+a) HTTP b) HTTPS c) SMTP d) SFTP
+(xxvii) Packet filtering firewalls are deployed on ________
+a) routers b) switches c) hubs d) repeaters
+(xxviii) What types of protocols are used in VPNs?
+a) Application level protocols b) Tunneling protocols c) Network protocols d)
+Mailing protocols
+(xxix) What common web scripting languages are used by attackers to fetch various details from 
+its surfing users?
+a) C# and java b) C++ and HTML c) HTML and Python d) Perl and JavaScript
+(xxx) Accessing computer without prior authorization is a cyber-crimes that come under 
+_______
+a) Section 65 b) Section 66 c) Section 68 d) Section 70
