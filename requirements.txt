@@ -1,0 +1,4 @@
+SpeechRecognition
+gTTS
+pyglet
+rich
